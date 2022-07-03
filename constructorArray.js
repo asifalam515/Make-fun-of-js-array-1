@@ -5,3 +5,5 @@ console.log(a2,a2.length)
 
 const a3=new Array(1,2,3,4,6)
 console.log(a3)
+
+//Factory Pattern
